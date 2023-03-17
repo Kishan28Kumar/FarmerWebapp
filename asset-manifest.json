@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81d79347.css",
+    "main.js": "/static/js/main.f37e0c85.js",
+    "static/js/787.282854bb.chunk.js": "/static/js/787.282854bb.chunk.js",
+    "static/media/ant-rozetsky-11.jpg": "/static/media/ant-rozetsky-11.1fc9b928f32fbf388470.jpg",
+    "static/media/glenn-carstens-peters.jpg": "/static/media/glenn-carstens-peters.b93bdb7f4d03f8c1301f.jpg",
+    "static/media/glenn-carstens-peters-1.jpg": "/static/media/glenn-carstens-peters-1.82ecc2f5ab1897ec56ee.jpg",
+    "static/media/farmers-market-vector.jpg": "/static/media/farmers-market-vector.884ae893510be2bcc93e.jpg",
+    "static/media/logo.png": "/static/media/logo.0a011c1b3632f4d1acab.png",
+    "index.html": "/index.html",
+    "main.81d79347.css.map": "/static/css/main.81d79347.css.map",
+    "main.f37e0c85.js.map": "/static/js/main.f37e0c85.js.map",
+    "787.282854bb.chunk.js.map": "/static/js/787.282854bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81d79347.css",
+    "static/js/main.f37e0c85.js"
+  ]
+}
